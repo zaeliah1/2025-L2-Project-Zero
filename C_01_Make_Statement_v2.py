@@ -17,6 +17,8 @@ def make_statement(statement, decoration, lines):
         print(top_bottom)
         print(middle)
         print(top_bottom)
+
+
 # Main Routine goes here
 make_statement("Programming is Fun!", "👍", 1)
 make_statement("Programming is Still Fun!", "+", 6)
