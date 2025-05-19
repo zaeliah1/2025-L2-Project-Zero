@@ -12,6 +12,7 @@ def yes_no(question):
         else:
             print("Please enter yes (y) or no (n).\n")
 
+
 # Main routine goes here
 
 # loop for testing purposes...
